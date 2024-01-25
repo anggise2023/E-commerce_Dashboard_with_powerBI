@@ -1,6 +1,6 @@
 # E-Commerce Dashboard
 <p align="center">
-  <img src="db_img.jpeg" width="524px" height="324px">
+  <img src="db_img.jpg" width="524px" height="324px">
 </p>
 
 ## Dataset: Data description
